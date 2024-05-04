@@ -1,0 +1,4 @@
+-Il programma utilizza un "Modal" per chiedere all'utente di inserire dieci numeri casuali.
+-Una volta che l'utente ha inserito i numeri e ha cliccato su "Ok", il computer analizza questi numeri.
+-Il programma fa la somma dei numeri inseriti e manda il risultato sulla console.
+-Il programma fa la media dividendo la somma per 10 (media = somma / 10).
