@@ -1,0 +1,4 @@
+-Il programma utilizza un "Modal" per chiedere all'utente di inserire sei numeri casuali.
+-Una volta che l'utente ha inserito i numeri e ha cliccato su "Ok", il computer analizza questi numeri.
+-Vengono scartati i numeri dispari.
+-Infine, nella console, vengono visualizzati sia la quantità di numeri dispari rilevati che i numeri stessi.
